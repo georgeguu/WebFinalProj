@@ -1,0 +1,370 @@
+[
+{
+    "Title" : "Good to Great",
+    "Year" : "2001",
+    "Price" : "10.99",
+    "Category" : "Business",
+    "Inventory" : "4",
+    "Delete" : "false"
+},
+{
+    "Title" : "Built to Last",
+    "Year" : "1994",
+    "Price" : "14.99",
+    "Category" : "Business",
+    "Inventory" : "3",
+    "Delete" : "false"
+},
+{
+    "Title" : "The Dip",
+    "Year" : "2007",
+    "Price" : "9.99",
+    "Category" : "Business",
+    "Inventory" : "10",
+    "Delete" : "false"
+},
+{
+    "Title" : "The Goal",
+    "Year" : "1984",
+    "Price" : "21.99",
+    "Category" : "Business",
+    "Inventory" : "7",
+    "Delete" : "false"
+},
+{
+    "Title" : "Getting to Yes",
+    "Year" : "2015",
+    "Price" : "12.99",
+    "Category" : "Business",
+    "Inventory" : "10",
+    "Delete" : "false"
+},
+{
+	"Title" : "The C Programming Language",
+    "Year" : "1978",
+    "Price" : "15.99",
+    "Category" : "Computer",
+    "Inventory" : "12",
+    "Delete" : "false"
+},
+{
+	"Title" : "Introduction to Algorithms",
+    "Year" : "1989",
+    "Price" : "30.99",
+    "Category" : "Computer",
+    "Inventory" : "10",
+    "Delete" : "false"
+},
+{
+	"Title" : "iWoz",
+    "Year" : "2006",
+    "Price" : "7.99",
+    "Category" : "Computer",
+    "Inventory" : "14",
+    "Delete" : "false"
+},
+{
+	"Title" : "Android Programming",
+    "Year" : "2012",
+    "Price" : "25.99",
+    "Category" : "Computer",
+    "Inventory" : "30",
+    "Delete" : "false"
+},
+{
+	"Title" : "Learning Python",
+    "Year" : "1999",
+    "Price" : "27.99",
+    "Category" : "Computer",
+    "Inventory" : "7",
+    "Delete" : "false"
+},
+{
+	"Title" : "Computer Graphics",
+    "Year" : "1995",
+    "Price" : "12.99",
+    "Category" : "Computer",
+    "Inventory" : "8",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Power of Babel",
+    "Year" : "2001",
+    "Price" : "15.99",
+    "Category" : "Language",
+    "Inventory" : "23",
+    "Delete" : "false"
+},
+{
+	"Title" : "Language Myths",
+    "Year" : "1998",
+    "Price" : "19.99",
+    "Category" : "Language",
+    "Inventory" : "12",
+    "Delete" : "false"
+},
+{
+	"Title" : "The First Word",
+    "Year" : "2007",
+    "Price" : "10.99",
+    "Category" : "Language",
+    "Inventory" : "2",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Baby Signing Bible",
+    "Year" : "2012",
+    "Price" : "4.99",
+    "Category" : "Language",
+    "Inventory" : "23",
+    "Delete" : "false"
+},
+{
+	"Title" : "In Other Words",
+    "Year" : "2015",
+    "Price" : "7.99",
+    "Category" : "Language",
+    "Inventory" : "12",
+    "Delete" : "false"
+},
+{
+	"Title" : "Into the Wild",
+    "Year" : "1996",
+    "Price" : "20.99",
+    "Category" : "USA",
+    "Inventory" : "12",
+    "Delete" : "false"
+},
+{
+	"Title" : "Life in the far West",
+    "Year" : "1848",
+    "Price" : "39.99",
+    "Category" : "USA",
+    "Inventory" : "3",
+    "Delete" : "false"
+},
+{
+	"Title" : "Travels with Charley",
+    "Year" : "1962",
+    "Price" : "19.99",
+    "Category" : "USA",
+    "Inventory" : "4",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Most Scenic Drives in America",
+    "Year" : "1997",
+    "Price" : "26.99",
+    "Category" : "USA",
+    "Inventory" : "3",
+    "Delete" : "false"
+},
+{
+	"Title" : "Roadfood",
+    "Year" : "1977",
+    "Price" : "11.99",
+    "Category" : "USA",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "Rick Steves' France 2007",
+    "Year" : "2002",
+    "Price" : "9.99",
+    "Category" : "Franch",
+    "Inventory" : "12",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Discovery of France",
+    "Year" : "2007",
+    "Price" : "9.99",
+    "Category" : "Franch",
+    "Inventory" : "4",
+    "Delete" : "false"
+},
+{
+	"Title" : "My Paris kitchen",
+    "Year" : "2014",
+    "Price" : "29.99",
+    "Category" : "Franch",
+    "Inventory" : "2",
+    "Delete" : "false"
+},
+{
+	"Title" : "15-Minute French",
+    "Year" : "2005",
+    "Price" : "19.99",
+    "Category" : "Franch",
+    "Inventory" : "4",
+    "Delete" : "false"
+},
+{
+	"Title" : "Two Towns in Provence",
+    "Year" : "1964",
+    "Price" : "20.99",
+    "Category" : "Franch",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "Action!",
+    "Year" : "2003",
+    "Price" : "10.99",
+    "Category" : "Action",
+    "Inventory" : "3",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Red Car",
+    "Year" : "2016",
+    "Price" : "25.99",
+    "Category" : "Action",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Lab",
+    "Year" : "2010",
+    "Price" : "19.99",
+    "Category" : "Action",
+    "Inventory" : "7",
+    "Delete" : "false"
+},
+{
+	"Title" : "Vow",
+    "Year" : "2016",
+    "Price" : "17.99",
+    "Category" : "Action",
+    "Inventory" : "8",
+    "Delete" : "false"
+},
+{
+	"Title" : "Candy in Action",
+    "Year" : "2009",
+    "Price" : "6.99",
+    "Category" : "Action",
+    "Inventory" : "6",
+    "Delete" : "false"
+},
+{
+	"Title" : "People of the Book",
+    "Year" : "2008",
+    "Price" : "13.99",
+    "Category" : "Fiction",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Time Traverler's Wife",
+    "Year" : "2014",
+    "Price" : "16.99",
+    "Category" : "Fiction",
+    "Inventory" : "22",
+    "Delete" : "false"
+},
+{
+	"Title" : "Skaha Crossing",
+    "Year" : "2004",
+    "Price" : "17.99",
+    "Category" : "Fiction",
+    "Inventory" : "2",
+    "Delete" : "false"
+},
+{
+	"Title" : "Star Hoppers",
+    "Year" : "2015",
+    "Price" : "16.99",
+    "Category" : "Fiction",
+    "Inventory" : "7",
+    "Delete" : "false"
+},
+{
+	"Title" : "Chasing the Phoenix",
+    "Year" : "2015",
+    "Price" : "18.99",
+    "Category" : "Fiction",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "Becoming",
+    "Year" : "2018",
+    "Price" : "29.99",
+    "Category" : "Biography",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "Educated A Memoir",
+    "Year" : "2018",
+    "Price" : "17.99",
+    "Category" : "Biography",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "Night",
+    "Year" : "1956",
+    "Price" : "10.99",
+    "Category" : "Biography",
+    "Inventory" : "13",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Mamba Mentality",
+    "Year" : "2018",
+    "Price" : "30.99",
+    "Category" : "Biography",
+    "Inventory" : "13",
+    "Delete" : "false"
+},
+{
+	"Title" : "My Love Story",
+    "Year" : "2018",
+    "Price" : "17.99",
+    "Category" : "Biography",
+    "Inventory" : "3",
+    "Delete" : "false"
+},
+{
+	"Title" : "Love Story",
+    "Year" : "1970",
+    "Price" : "20.99",
+    "Category" : "Romance",
+    "Inventory" : "5",
+    "Delete" : "false"
+},
+{
+	"Title" : "Every Breath",
+    "Year" : "2018",
+    "Price" : "18.99",
+    "Category" : "Romance",
+    "Inventory" : "4",
+    "Delete" : "false"
+},
+{
+	"Title" : "The Kiss Quotient",
+    "Year" : "2018",
+    "Price" : "19.99",
+    "Category" : "Romance",
+    "Inventory" : "7",
+    "Delete" : "false"
+},
+{
+	"Title" : "Me Before You",
+    "Year" : "2012",
+    "Price" : "18.99",
+    "Category" : "Romance",
+    "Inventory" : "6",
+    "Delete" : "false"
+},
+{
+	"Title" : "Bared to You",
+    "Year" : "2012",
+    "Price" : "7.99",
+    "Category" : "Romance",
+    "Inventory" : "7",
+    "Delete" : "false"
+}
+]
