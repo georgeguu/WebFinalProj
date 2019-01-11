@@ -392,12 +392,12 @@ function clearSession(){
 function searchBook(){
     var stitle = $('#search').val();
     sessionStorage.setItem("search", stitle);
-    window.location = 'http://34.230.73.245:3000/home.html?#';
+    window.location = 'http://35.175.235.241:3000/home.html?#';
 }
 
 function showClass(className){
     sessionStorage.setItem("showClass", className);
-    window.location = 'http://34.230.73.245:3000/home.html?#';
+    window.location = 'http://35.175.235.241:3000/home.html?#';
 }
 
 function showTopTen(){
