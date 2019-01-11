@@ -78,15 +78,15 @@ function clearSession(){
 function searchBook(){
     var stitle = $('#search').val();
     sessionStorage.setItem("search", stitle);
-    window.location = '34.230.73.245:3000/home.html?';
+    window.location = '35.175.235.241:3000/home.html?';
 }
 
 function showClass(className){
     sessionStorage.setItem("showClass", className);
-    window.location = '34.230.73.245:3000/home.html?';
+    window.location = '35.175.235.241:3000/home.html?';
 }
 
 function showTopTen(){
     sessionStorage.setItem("showTopTen", "true");
-    window.location = '34.230.73.245:3000/home.html?';
+    window.location = '35.175.235.241:3000/home.html?';
 }

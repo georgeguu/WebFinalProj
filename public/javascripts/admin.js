@@ -402,5 +402,5 @@ function showClass(className){
 
 function showTopTen(){
     sessionStorage.setItem("showTopTen", "true");
-    window.location = 'http://34.230.73.245:3000/home.html?#';
+    window.location = 'http://35.175.235.241:3000/home.html?#';
 }
